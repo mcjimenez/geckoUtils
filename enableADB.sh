@@ -1,4 +1,4 @@
-#!/bin/bash -x
+#!/bin/bash
 
 PWD=`pwd`
 TMP_DIR="/tmp"
