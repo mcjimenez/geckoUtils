@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Permanently enables adb in user compilation
+
 PWD=`pwd`
 TMP_DIR="/tmp"
 
